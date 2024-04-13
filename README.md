@@ -56,10 +56,10 @@ In Progress
 
 ## Contributors
 
-- [Kumar Priyanshu](https://github.com/kpriyanshu2003)
 - [Akangkha Sarkar](https://github.com/Akangkha)
+- [Kumar Priyanshu](https://github.com/kpriyanshu2003)
 - [Swati Mishra](https://github.com/swatimishra02)
-- [Debarghya Roy](https://github.com/DebarghyaRoy02)
+
 
 ## Open Source Projects Used - Python Models
 
