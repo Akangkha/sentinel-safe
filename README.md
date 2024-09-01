@@ -2,7 +2,7 @@
 
 ## SDG
 
-- 16 - Peace, Justice, and Strong Institutions
+- 16 - Peace, Justice, and Strong Institution
 - 10 - Reduced Inequalities
 
 ## About
